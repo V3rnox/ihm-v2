@@ -22,5 +22,4 @@ ils apparaissent détermine la manière dont ils se recouvrent visuellement dans
 
 5.  Un composant est un élément réutilisable dans Figma (ex. bouton, icône, carte d’article).
 Il sert de modèle : chaque copie (instance) garde un lien avec le composant principal.
-Modifier le composant principal met automatiquement à jour toutes ses instances, ce qui
-garantit la cohérence.
+Modifier le composant principal met automatiquement à jour toutes ses instances, ce qui garantit la cohérence.
